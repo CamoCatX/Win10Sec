@@ -1,0 +1,9 @@
+image::matrix-blue-pill-red-pill-custom-cursor-124301064.png[Pills]
+= "You take the blue pill – the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill – you stay in Wonderland, and I show you how deep the rabbit hole goes."
+
+:icons: font
+:hide-uri-scheme:
+
+The **blue pill** is what everyone wants to believe, that their operating system is wonderfully secure. The **red pill**; the truth, is that Windows 10 is not secure, not even close to it. Welcome to the matrix
+
+These disorganized scripts are for those who need to secure Ubuntu specifically `Windows 10` For Windows 11, look here: https://github.com/CamoCatX/Windows-Security-Script.
